@@ -10,4 +10,4 @@ In this project, I trained a convolutional neural network to identify digits. Th
 
 Draw digit is an extended application that uses the digit localization and identification model. running Draw.py will open up a window which allows the users to draw digit(s) in it using a mouse. once the drawing is finished, pressing the escape ket opens up a new window with the predictions of these digits.
 
-
+![Draw digit](DrawDigit.png)
